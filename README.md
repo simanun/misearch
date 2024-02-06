@@ -1,24 +1,22 @@
-# README
+## アプリケーション名
+Misearch
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## アプリケーション概要
+クリニックや薬局などの医療機関を一覧で閲覧でき、予約までできるアプリ。
 
-Things you may want to cover:
+## URL
+https://misearch.onrender.com
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## テスト用アカウント
+## 利用方法
+## アプリケーションを作成した背景
+## 洗い出した要件
+## 実装した機能についての画像やGIFおよびその説明※
+## 実装予定の機能
+## データベース設計
+## 画面遷移図
+## 開発環境
+## ローカルでの動作方法
+## 工夫したポイント
+## 改善点
+## 制作時間
